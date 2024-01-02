@@ -14,3 +14,5 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
+delstok.ir
+mbi.ir
